@@ -1,0 +1,4 @@
+---
+:default_key: "consumer key goes here"
+:default_secret: "consumer secret goes here"
+:default_site: "http://api.mendeley.com"
